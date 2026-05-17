@@ -1,0 +1,6 @@
+build/
+nbproject/private/
+test/
+manifest.mf
+*.class
+*.jar
